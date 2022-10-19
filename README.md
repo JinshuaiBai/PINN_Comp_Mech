@@ -16,6 +16,16 @@ Information regarding the numerical examples, please refer to our paper.
 # Paper link
 https://arxiv.org/abs/2210.09060
 
+# Cite as
+@article{RN1057,
+   author = {Bai, Jinshuai and Jeong, Hyogu and Batuwatta-Gamage, C. P. and Xiao, Shusheng and Wang, Qingxia and Rathnayaka, C. M. and Alzubaidi, Laith and Liu, Gui-Rong and Gu, Yuantong},
+   title = {An introduction to programming Physics-Informed Neural Network-based computational solid mechanics},
+   journal = {Arxiv preprint  arXiv:2210.09060},
+   DOI = {https://doi.org/10.48550/arXiv.2210.09060},
+   year = {2022},
+   type = {Journal Article}
+}
+
 # Contact us
 For questions regarding the code, please contact:
 
