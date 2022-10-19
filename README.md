@@ -10,6 +10,7 @@ Numerical examples include:
  - 2D in-plain stretching plate problem (implemented by collocation loss function)
  - 2D in-plain stretching plate problem (implemented by energy-based loss function)
  - 3D streching cube problem (implemented by collocation loss function)
+
 Information regarding the numerical examples, please refer to our paper.
 
 # Paper link
