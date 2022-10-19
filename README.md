@@ -13,6 +13,12 @@ Numerical examples include:
 
 Information regarding the numerical examples, please refer to our paper.
 
+# Enviornmental settings
+ - TensorFlow  2.8.0 
+ - Keras       2.8.0
+ - SciPy       1.8.0
+ - Matplotlib  3.6.0
+ 
 # Paper link
 https://arxiv.org/abs/2210.09060
 
