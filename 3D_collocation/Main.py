@@ -9,7 +9,8 @@ tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 """
 =================================================================================================================================
     This code is for the 3D stretching cube problem in "An introduction to programming physics-informed
-    neural network-based computational solid mechanics". DOI: http://
+    neural network-based computational solid mechanics". 
+    DOI: https://doi.org/10.48550/arXiv.2210.09060
     
     A 3D stretching cube problem is modeled here. The length of the cube is L = 2 m. The in-plain
     distribute force, F(x,y) = cos(pi*x/2)cos(pi*y/2) N/m^2, is applied on the top surface of the
