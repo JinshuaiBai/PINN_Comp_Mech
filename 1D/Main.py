@@ -9,7 +9,8 @@ from lib.Post_Process import Post_Process
 ========================================================================================================================
 
     This code is for the 1D stretching rod problem in "An introduction to programming physics-informed
-    neural network-based computational solid mechanics". DOI: http://
+    neural network-based computational solid mechanics". 
+    DOI: https://doi.org/10.48550/arXiv.2210.09060
     
     A 1D stretching rod problem is modeled here. The length of the rod is L = 1 m. A stretching 
     force, F = 1 N/m2, is applied at the right end of the rod. 51 sample points are uniformly 
