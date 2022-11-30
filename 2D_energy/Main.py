@@ -8,7 +8,9 @@ from lib.Post_Process import Post_Process
 """
 ========================================================================================================================
 
-    This code is for the 2D stretching square plate problem in "". DOI: http://
+    This code is for the 2D stretching square plate problem in "An introduction to programming 
+    Physics-Informed Neural Network-based computational solid mechanics". 
+    DOI: https://doi.org/10.48550/arXiv.2210.09060
     
     A 2D stretching square plate is modeled here. The length of the plate is L = 2 m. The in-plain
     distribute force, F(y) = cos(pi*y/2) N/m^2, is applied on the left and right sides of the
