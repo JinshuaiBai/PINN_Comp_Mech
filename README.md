@@ -26,6 +26,8 @@ Besides, the preprint version can be found at:
 https://arxiv.org/abs/2210.09060
 
 # Cite as
+[1] J. Bai, H. Jeong, C.P. Batuwatta-Gamage, S. Xiao, Q. Wang, C.M. Rathnayaka, L. Alzubaidi, G.-R. Liu, Y. Gu, An introduction to programming Physics-Informed Neural Network-based computational solid mechanics, International Journal of Computational Methods, (2023), DOI: 10.1142/S0219876223500135.  
+or  
 [1] J. Bai, H. Jeong, C.P. Batuwatta-Gamage, S. Xiao, Q. Wang, C.M. Rathnayaka, L. Alzubaidi, G.-R. Liu, Y. Gu, An introduction to programming Physics-Informed Neural Network-based computational solid mechanics, Arxiv preprint  arXiv:2210.09060, (2022).
 
 # Contact us
