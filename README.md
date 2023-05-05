@@ -20,9 +20,9 @@ Information regarding the numerical examples, please refer to our paper.
  - Matplotlib  3.6.0
  
 # Paper link
-Now, the paper has been accepted by the ***International Journal of Computational Methods***(IJCM): 
-https://doi.org/10.1142/S0219876223500135 
-Besides, the preprint version can be found at: 
+Now, the paper has been accepted by the ***International Journal of Computational Methods***(IJCM):  
+https://doi.org/10.1142/S0219876223500135  
+Besides, the preprint version can be found at:  
 https://arxiv.org/abs/2210.09060
 
 # Cite as
