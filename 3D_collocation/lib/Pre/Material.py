@@ -81,8 +81,8 @@ def Material(U_x, U_y, U_z, V_x, V_y, V_z, W_x, W_y, W_z,
     s13 = 2 * G * e13
 
     ### Calculate the residual from equilibrium equation
-    Gex = (2 * G + la) * (U_xx + V_xy + W_xz) + 2 * G * (U_yy + U_zz)
-    Gey = (2 * G + la) * (V_yy + U_xy + W_yz) + 2 * G * (V_xx + V_zz)
-    Gez = (2 * G + la) * (W_zz + U_xz + V_yz) + 2 * G * (W_xx + W_yy)
+    Gex = (G + la) * (U_xx + V_xy + W_xz) + G * (U_xx + U_yy + U_zz)
+    Gey = (G + la) * (V_yy + U_xy + W_yz) + G * (V_xx + V_yy + V_zz)
+    Gez = (G + la) * (W_zz + U_xz + V_yz) + G * (W_xx + W_yy + W_zz)
 
     return e1, e2, e3, e12, e23, e13, s1, s2, s3, s12, s23, s13, Gex, Gey, Gez
